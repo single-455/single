@@ -6,5 +6,5 @@ public class Square extends Shape {
         super(x, y);
     }
 
-    private String color = "red";
+    private String color = "blue";
 }
