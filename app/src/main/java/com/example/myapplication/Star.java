@@ -13,4 +13,6 @@ public class Star extends Shape {
         this.innerRadius = innerRadius;
         this.points = points;
     }
+
+    private String color = "red"
 }
