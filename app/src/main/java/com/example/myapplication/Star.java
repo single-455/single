@@ -1,5 +1,7 @@
 package com.example.myapplication;
 
+import android.graphics.drawable.shapes.Shape;
+
 public class Star extends Shape {
     private double outerRadius;
     private double innerRadius;
