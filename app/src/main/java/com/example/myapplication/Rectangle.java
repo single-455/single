@@ -5,5 +5,5 @@ public class Rectangle extends Shape{
         super(x,y);
     }
 
-    private String color = "blue";
+    private String color = "white";
 }
